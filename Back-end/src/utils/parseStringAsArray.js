@@ -1,3 +1,3 @@
 module.exports = string => {
-  return string.split(', ');
+  return string ? string.split(', ') : [];
 };

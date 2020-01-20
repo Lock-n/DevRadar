@@ -1,13 +1,13 @@
 {
   "folders": [
     {
-      "path": "Mobile"
-    },
-    {
       "path": "Back-end"
     },
     {
       "path": "devradar-web"
+    },
+    {
+      "path": "mobile"
     }
   ],
   "settings": {}
